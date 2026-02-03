@@ -123,7 +123,7 @@ Creates:
 Create `.env` file:
 
 ```env
-NSP_SERVER=192.168.42.7
+NSP_SERVER=NSP_Server_Ip_Address
 NSP_USERNAME=client_id
 NSP_PASSWORD=client_secret
 KAFKA_KEYSTORE_PASSWORD=change_me
